@@ -3,7 +3,7 @@
   "version": 1,
   "ads_enabled": true,
   "test_mode": false,
-  "admob_app_id": "ca-app-pub-3940256099942544~3347511713",
+  "admob_app_id": "ca-app-pub-3380498514301154~3060393041",
   "ad_units": {
     "banner": "ca-app-pub-3380498514301154/8702942820",
     "native": "ca-app-pub-3380498514301154/5141816812",
