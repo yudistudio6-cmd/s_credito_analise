@@ -2,7 +2,7 @@
 {
   "version": 1,
   "ads_enabled": true,
-  "test_mode": true,
+  "test_mode": false,
   "admob_app_id": "ca-app-pub-3940256099942544~3347511713",
   "ad_units": {
     "banner": "ca-app-pub-3380498514301154/8702942820",
