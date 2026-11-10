@@ -12,7 +12,7 @@
     "app_open": "ca-app-pub-3380498514301154/3494848177"
   },
   "banner_enabled": true,
-  "native_enabled": true,
+  "native_enabled": false,
   "interstitial_enabled": true,
   "rewarded_enabled": true,
   "app_open_enabled": true,
