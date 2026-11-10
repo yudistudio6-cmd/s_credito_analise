@@ -1,34 +1,34 @@
 
 {
   "version": 1,
-  "ads_enabled": false,
-  "test_mode": false,
+  "ads_enabled": true,
+  "test_mode": true,
   "admob_app_id": "ca-app-pub-3940256099942544~3347511713",
   "ad_units": {
-    "banner": "ca-app-pub-3940256099942544/6300978111",
-    "native": "ca-app-pub-3940256099942544/2247696110",
-    "interstitial": "ca-app-pub-3940256099942544/1033173712",
-    "rewarded": "ca-app-pub-3940256099942544/5224354917",
-    "app_open": "ca-app-pub-3940256099942544/9257395921"
+    "banner": "ca-app-pub-3380498514301154/8702942820",
+    "native": "ca-app-pub-3380498514301154/5141816812",
+    "interstitial": "ca-app-pub-3380498514301154/3665083619",
+    "rewarded": "ca-app-pub-3380498514301154/3533221679",
+    "app_open": "ca-app-pub-3380498514301154/3494848177"
   },
-  "banner_enabled": false,
-  "native_enabled": false,
-  "interstitial_enabled": false,
-  "rewarded_enabled": false,
-  "app_open_enabled": false,
-  "reward_lock_enabled": false,
+  "banner_enabled": true,
+  "native_enabled": true,
+  "interstitial_enabled": true,
+  "rewarded_enabled": true,
+  "app_open_enabled": true,
+  "reward_lock_enabled": true,
   "reward_unlock_minutes": 30,
   "banner_placement": "top",
   "interstitial_min_interval_seconds": 180,
   "app_open_min_interval_seconds": 300,
   "cache_ttl_seconds": 60,
   "features": {
-    "loan_simulator": false,
-    "credit_analysis_advanced": false,
-    "loan_comparator": false,
-    "financial_planning_advanced": false,
-    "credit_guide": false,
-    "financial_security": false,
-    "financial_information": false
+    "loan_simulator": true,
+    "credit_analysis_advanced": true,
+    "loan_comparator": true,
+    "financial_planning_advanced": true,
+    "credit_guide": true,
+    "financial_security": true,
+    "financial_information": true
   }
 }
