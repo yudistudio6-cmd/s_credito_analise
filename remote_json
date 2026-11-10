@@ -1,7 +1,7 @@
 
 {
   "version": 1,
-  "ads_enabled": true,
+  "ads_enabled": false,
   "test_mode": false,
   "admob_app_id": "ca-app-pub-3380498514301154~3060393041",
   "ad_units": {
@@ -11,10 +11,10 @@
     "rewarded": "ca-app-pub-3380498514301154/3533221679",
     "app_open": "ca-app-pub-3380498514301154/3494848177"
   },
-  "banner_enabled": true,
+  "banner_enabled": false,
   "native_enabled": true,
-  "interstitial_enabled": true,
-  "rewarded_enabled": true,
+  "interstitial_enabled": false,
+  "rewarded_enabled": false,
   "app_open_enabled": true,
   "reward_lock_enabled": true,
   "reward_unlock_minutes": 30,
