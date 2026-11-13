@@ -12,23 +12,23 @@
     "app_open": "ca-app-pub-3380498514301154/3494848177"
   },
   "banner_enabled": true,
-  "native_enabled": false,
+  "native_enabled": true,
   "interstitial_enabled": false,
-  "rewarded_enabled": false,
-  "app_open_enabled": false,
-  "reward_lock_enabled": false,
+  "rewarded_enabled": true,
+  "app_open_enabled": true,
+  "reward_lock_enabled": true,
   "reward_unlock_minutes": 30,
   "banner_placement": "top",
   "interstitial_min_interval_seconds": 180,
   "app_open_min_interval_seconds": 300,
   "cache_ttl_seconds": 60,
   "features": {
-    "loan_simulator": false,
-    "credit_analysis_advanced": false,
-    "loan_comparator": false,
-    "financial_planning_advanced": false,
-    "credit_guide": false,
-    "financial_security": false,
-    "financial_information": false
+    "loan_simulator": true,
+    "credit_analysis_advanced": true,
+    "loan_comparator": true,
+    "financial_planning_advanced": true,
+    "credit_guide": true,
+    "financial_security": true,
+    "financial_information": true
   }
 }
