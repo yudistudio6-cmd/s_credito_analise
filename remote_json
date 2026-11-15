@@ -13,7 +13,7 @@
   },
   "banner_enabled": true,
   "native_enabled": true,
-  "interstitial_enabled": false,
+  "interstitial_enabled": true,
   "rewarded_enabled": true,
   "app_open_enabled": true,
   "reward_lock_enabled": true,
