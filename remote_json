@@ -2,7 +2,7 @@
 {
   "version": 1,
   "ads_enabled": true,
-  "test_mode": true,
+  "test_mode": false,
   "admob_app_id": "ca-app-pub-3380498514301154~3060393041",
   "ad_units": {
     "banner": "ca-app-pub-3380498514301154/2878384049",
@@ -24,8 +24,8 @@
   "cache_ttl_seconds": 1,
   "features": {
     "loan_simulator": true,
-    "credit_analysis_advanced": true,
-    "loan_comparator": true,
+    "credit_analysis_advanced": false,
+    "loan_comparator": false,
     "financial_planning_advanced": false,
     "credit_guide": false,
     "financial_security": false,
